@@ -26,3 +26,8 @@ See [`docs/PRODUCT_SPEC.md`](docs/PRODUCT_SPEC.md) for the MVP definition, core 
 See [`docs/TO_J_ARCHITECTURE.md`](docs/TO_J_ARCHITECTURE.md) for progression rules, API boundaries and mobile next steps.
 See [`docs/KAKAO_MAPS.md`](docs/KAKAO_MAPS.md) for the JavaScript key, domain setup and map integration tests.
 See [`docs/ROUTING.md`](docs/ROUTING.md) for route behavior, REST-key setup, safety limits and tests.
+
+
+## 라이선스
+
+이 프로젝트의 자체 소스 코드와 문서는 [MIT License](LICENSE)로 공개합니다. 외부 라이브러리·데이터·미디어에는 각 출처의 조건이 적용됩니다. [외부 자료 안내](THIRD_PARTY_NOTICES.md)를 참고하세요.
