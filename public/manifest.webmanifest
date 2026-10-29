@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "J에게 (To J)",
+  "short_name": "J에게",
+  "description": "일정과 기념일을 준비하고 매일의 실천을 쌓는 계획 도우미",
+  "lang": "ko",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfcf8",
+  "theme_color": "#294e3e",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

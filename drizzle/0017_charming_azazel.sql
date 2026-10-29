@@ -1,0 +1,1 @@
+ALTER TABLE `events` ADD `preparations_enabled` integer DEFAULT 1 NOT NULL;

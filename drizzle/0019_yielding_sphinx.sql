@@ -1,0 +1,1 @@
+ALTER TABLE `notification_jobs` ADD `lifetime_attempt_count` integer DEFAULT 0 NOT NULL;

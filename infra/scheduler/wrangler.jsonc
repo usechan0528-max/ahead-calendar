@@ -1,0 +1,11 @@
+{
+  "$schema": "../../node_modules/wrangler/config-schema.json",
+  "name": "ahead-notification-clock",
+  "account_id": "ef987470f793e0f12c83f17a8996a35a",
+  "main": "worker.ts",
+  "compatibility_date": "2026-05-15",
+  "workers_dev": false,
+  "preview_urls": false,
+  "triggers": { "crons": ["* * * * *"] },
+  "observability": { "enabled": true }
+}

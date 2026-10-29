@@ -1,0 +1,1 @@
+ALTER TABLE `preparation_items` ADD `legacy_completed_date` text;
